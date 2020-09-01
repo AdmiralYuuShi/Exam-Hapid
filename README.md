@@ -9,6 +9,16 @@
 ## Introduction
 <b>Exam - Hapid</b> is a android app built with React Native.
 
+## Screenshots
+<div align="center">
+    <img width="200" src="./screenshot/screen1.jpeg"> 
+    <img width="200" src="./screenshot/screen1_alert.jpeg"> 
+    <img width="200" src="./screenshot/screen2_not_filled.jpeg"> 
+    <img width="200" src="./screenshot/screen2_filled.jpeg"> 
+    <img width="200" src="./screenshot/screen2_success.jpeg"> 
+    <img width="200" src="./screenshot/screen2_error.jpeg">
+</div>
+
 ## Release APK
 <a href="https://drive.google.com/file/d/13GVpNEfYSeg_N6kdpXwBcQ-KVn41nGw6/view?usp=sharing">
   <img src="https://img.shields.io/badge/Download%20on%20the-Google%20Drive-blue.svg?style=popout&logo=google-drive"/>
