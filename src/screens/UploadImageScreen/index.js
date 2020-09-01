@@ -65,7 +65,6 @@ const UploadImageScreen = () => {
   });
 
   const showAlertMessage = (res) => {
-    console.log(res)
     if (!sendImageState.isError) {
       Alert.alert(
         res.value.data.status,
