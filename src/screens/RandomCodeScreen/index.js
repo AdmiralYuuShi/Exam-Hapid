@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { View, Text, TextInput, Alert, SafeAreaView } from 'react-native';
+import { View, Text, TextInput, SafeAreaView } from 'react-native';
 import { useSelector, useDispatch } from 'react-redux';
 import { styles } from './style';
 import AppDimens from '../../components/shared/AppDimens';

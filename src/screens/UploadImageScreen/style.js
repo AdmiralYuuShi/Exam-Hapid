@@ -12,7 +12,17 @@ export const styles = StyleSheet.create({
   textBlack28: {
     color: appColor.black,
     fontSize: 28,
-    textAlign: 'center',
+  },
+  textWhite56: {
+    color: appColor.white,
+    fontSize: 56,
+  },
+  addImageButton: {
+    height: 56,
+    width: 56,
+    backgroundColor: appColor.red,
+    justifyContent: 'center',
+    alignItems: 'center'
   },
   submitButton: {
     backgroundColor: appColor.red,
@@ -31,7 +41,8 @@ export const styles = StyleSheet.create({
     borderColor: appColor.blue,
     borderWidth: 1,
     borderRadius: 25,
-    alignSelf: 'stretch'
+    alignSelf: 'stretch',
+    paddingHorizontal: 20
   },
   textAlert: {
     color: appColor.white,

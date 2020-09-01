@@ -16,7 +16,7 @@ const persistConfig = {
   // Whitelist (Save Specific Reducers)
   whitelist: [],
   // Blacklist (Don't Save Specific Reducers)
-  blacklist: ['randomCode', 'uploadImage'],
+  blacklist: ['fetchRandomCode', 'sendImageList', 'sendRandomCode'],
 };
 
 const persistedReducer = persistReducer(persistConfig, rootReducer);
